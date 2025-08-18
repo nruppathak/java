@@ -1,0 +1,84 @@
+// Q1. Create a class StudentInfo with a method displayInfo() that prints your name, age, and grade.
+
+// public class studentinfo {
+
+//     public void displayinfo() {
+//         System.out.println("Name: Aman Sharma");
+//         System.out.println("Age: 16");
+//         System.out.println("Grade: 10th");
+//     }
+
+//     public static void main(String[] args) {
+//         studentinfo obj = new studentinfo();
+//         obj.displayinfo();
+//     }
+// }
+
+// Q2. Create a class Calculator with a method addNumbers() that adds two numbers and prints the result.
+
+// public class calculator {
+
+//     public void addnumbers() {
+//         int a = 40;
+//         int b = 30;
+//         int sum = a + b;
+//         System.out.println("sum = " + sum);
+//     }
+
+//     public static void main(String[] args) {
+//         calculator obj = new calculator();
+//         obj.addnumbers();
+//     }
+// }
+
+// Q3. Create a class Greeting with a method sayHello() that takes your name as a parameter and prints:
+
+
+// public class Greeting {
+
+//     public void sayHello(String name) {
+//         System.out.println("hello, " + name + "! welcome to java programming.");
+//     }
+
+//     public static void main(String[] args) {
+//         greeting obj = new greeting();
+//         obj.sayHello("nrup"); 
+//     }
+// }
+
+// Q4. Create a class Circle with a method calculateArea() that calculates and prints the area of a circle.
+
+// public class circle {
+
+//     public void calcarea() {
+//         double radius = 7;
+//         double pi = 3.14;
+//         double area = pi * radius * radius;
+//         System.out.println("area=" + area);
+//     }
+
+//     public static void main(String[] args) {
+//         circle obj = new circle();
+//         obj.calcarea();
+//     }
+// }
+
+
+// Q5. Create a class SimpleInterest with a method calculateInterest() that calculates simple interest.
+
+
+// public class si {
+
+//     public void calint() {
+//         double principal = 2000;
+//         double time = 3;
+//         double rate = 1.5;
+//         double si = (principal * time * rate) / 100;
+//         System.out.println("SI=" + si);
+//     }
+
+//     public static void main(String[] args) {
+//         si obj = new si();
+//         obj.calint();
+//     }
+// }
