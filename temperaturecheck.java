@@ -8,9 +8,10 @@ public class temperaturecheck {
 
         if (temperature > 0) {
             System.out.println("Safe for outside activities");
-        } else if (temperature <= 0 ) {
+        } else {
             System.out.println("Too cold for output activities");
         }
-        }
+        sc.close();
     }
+}
 
